@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Melih Yok\\source\\repos\\AdaTrainApp\\AdaTrainApp\\AdaTrainApp.csproj": {}
+    "C:\\Users\\Melih Yok\\Documents\\GitHub\\AdaTrainApp\\AdaTrainApp\\AdaTrainApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Melih Yok\\source\\repos\\AdaTrainApp\\AdaTrainApp\\AdaTrainApp.csproj": {
+    "C:\\Users\\Melih Yok\\Documents\\GitHub\\AdaTrainApp\\AdaTrainApp\\AdaTrainApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Melih Yok\\source\\repos\\AdaTrainApp\\AdaTrainApp\\AdaTrainApp.csproj",
+        "projectUniqueName": "C:\\Users\\Melih Yok\\Documents\\GitHub\\AdaTrainApp\\AdaTrainApp\\AdaTrainApp.csproj",
         "projectName": "AdaTrainApp",
-        "projectPath": "C:\\Users\\Melih Yok\\source\\repos\\AdaTrainApp\\AdaTrainApp\\AdaTrainApp.csproj",
+        "projectPath": "C:\\Users\\Melih Yok\\Documents\\GitHub\\AdaTrainApp\\AdaTrainApp\\AdaTrainApp.csproj",
         "packagesPath": "C:\\Users\\Melih Yok\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Melih Yok\\source\\repos\\AdaTrainApp\\AdaTrainApp\\obj\\",
+        "outputPath": "C:\\Users\\Melih Yok\\Documents\\GitHub\\AdaTrainApp\\AdaTrainApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
